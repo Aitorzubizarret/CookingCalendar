@@ -1,0 +1,22 @@
+body {
+    padding-top: 50px;
+}
+#map {
+    height: 300px;
+}
+.navbar .container {
+    padding-left: 10px;
+}
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.row {
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.col-sx-12 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
