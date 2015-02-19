@@ -4,6 +4,9 @@ body {
 #map {
     height: 300px;
 }
+.navbar {
+    margin-bottom: 0;
+}
 .navbar .container {
     padding-left: 10px;
 }
@@ -12,11 +15,18 @@ body {
     padding-left: 0px;
 }
 .row {
-    margin-bottom: 20px;
     margin-left: 0;
     margin-right: 0;
 }
-.col-sx-12 {
+.mapa {
     padding-left: 0px;
     padding-right: 0px;
+    position: fixed;
+}
+.mapBox {
+    margin-bottom: 310px;
+    z-index: 3;
+}
+.listBox {
+    z-index: -2;
 }
