@@ -33,3 +33,12 @@ Añadir el nuevo host para que sea accesible desde el navegador:
     127.0.0.1     cooking-calendar.local
 
 Enjoy ;)
+
+==============
+
+Ideas :
+
+- https://dribbble.com/shots/1322516--GIF-Recipe-App-Method-Screen
+- http://food52.com
+- http://www.frattisl.com/inici.php
+- http://www.cookbooth.com
