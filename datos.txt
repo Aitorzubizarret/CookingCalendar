@@ -1,0 +1,42 @@
+Datos
+=====
+
+Platos = [
+    {
+        "descripción": "Plato tipico de un lugar en una fecha",
+        "lugar": Donostia,
+        "fecha": Febrero,
+        "receta": [{receta}],
+        "restaurantes": [{restaurante}{restaurante}{restaurante}]
+    }
+]
+Receta = [
+    {
+        ingredientes = [
+            {
+                "ingrediente": harina,
+                "cantidad": 4,
+                "unidad": kg
+            },
+        ],
+        instrucciones = [
+            {
+                "id": 1,
+                "instruccion": "Poner aceite en la sartén"
+            }
+        ]
+    }
+]
+restaurantes = [
+    {
+        "restaurante" : nombre
+        "localizacion": donosti
+        "lat": 2.41,
+        "long": -0.9
+    },
+]
+supermercado = [
+    {
+
+    }
+]
