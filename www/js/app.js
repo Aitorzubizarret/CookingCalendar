@@ -1,4 +1,4 @@
-angular.module('CookingCalendarApp', ['ionic'])
+angular.module('CookingCalendarApp', ['ionic', 'CookingCalendarApp.controller'])
 
 .config(function($stateProvider, $urlRouterProvider){
   $urlRouterProvider.otherwise('/');

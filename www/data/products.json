@@ -1,0 +1,12 @@
+{
+    id: 1,
+    title: "Plato 1",
+    description: "Descripción del plato 1",
+    img: "img/plato1.jpg"
+},
+{
+    id: 2,
+    title: "Plato 2",
+    description: "Descripción del plato 2",
+    img: "img/plato2.jpg"
+}
