@@ -1,6 +1,5 @@
 angular.module('CookingCalendarApp.controller', ['$scope'])
 
-.controller('ProductsListCtrl', function($scope, getProducts) {
-  console.log("Hello world");
-
-});
+.controller('ProductsListCtrl', ['$scope', function($scope) {
+  $scope. = "Hello World";
+}]);
