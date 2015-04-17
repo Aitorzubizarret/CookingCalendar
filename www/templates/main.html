@@ -2,7 +2,7 @@
     <ion-content>
         <ion-list ng-controller="ProductsListCtrl">
             <ion-item ng-repeat="producto in productos" href="#info/{{producto.id}}">
-                <h2>{{producto.title}}</h2>
+                <h2 class="titulo">{{producto.title}}</h2>
                 <div class="item item-image">
                 <img ng-src="{{producto.img}}">
                 </div>
