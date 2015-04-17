@@ -1,6 +1,6 @@
-angular.module('CookingCalendarApp.controller', [])
+var myApp = angular.module('CookingCalendarApp.controller', []);
 
-.controller('ProductsListCtrl', ['$scope', function($scope) {
+myApp.controller('ProductsListCtrl', ['$scope', function($scope) {
   $scope.productos = [
     {
       id: 1,
@@ -39,4 +39,8 @@ angular.module('CookingCalendarApp.controller', [])
       img: "img/plato6.jpg"
     }
   ];
+}]);
+
+myApp.controller('ProductInfo', ['$scope', function($scope) {
+  $scope.datos = "Holaaa";
 }]);
